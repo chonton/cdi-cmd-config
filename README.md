@@ -35,7 +35,7 @@ public class Main {
  * Annotation driven command line parsing
 
 ### Multiple configuration objects
-It is possible to have multiple objects.  Each object will be filled with its attributes defined in command line arguments.
+It is possible to have multiple configured objects.  Each object will be filled with its attributes defined in command line arguments.
 
 ### Extra attributes
 Attributes specified in the command line options without a corresponding configuration object attribute are ignored.
