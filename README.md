@@ -41,8 +41,7 @@ It is possible to have multiple configured objects.  Each object will be filled 
 Attributes specified in the command line options without a corresponding configuration object attribute are ignored.
 
 ### Missing attributes
-Configuration object attributes without a corresponding command line option are left are set based upon the @Parameter arguments.
-
+Configuration object attributes without a corresponding command line option are left as previously initialized.
 
 ## Add to your maven project
 ```xml
